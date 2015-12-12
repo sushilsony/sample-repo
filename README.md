@@ -1,5 +1,4 @@
 # sample-repo
 Sample Repo
 
-;k;ll
-
+README.md file content
